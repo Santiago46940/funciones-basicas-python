@@ -12,9 +12,9 @@ Trabajo grupal: investigación y documentación de funciones integradas (built-i
 
 | Integrante | Notebook | Usuario GitHub |
 |---|---|---|
-| _Nombre 1_ | 01 | @usuario1 |
-| _Nombre 2_ | 02 | @usuario2 |
-| _Nombre 3_ | 03 | @usuario3 |
+| _santiago rodriguez_ | 01 | @santiago46940 |
+| _Catalina franco_ | 02 | @usuario2 |
+
 
 ## Ejecutar
 ```bash
